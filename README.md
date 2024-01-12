@@ -5,6 +5,9 @@
 - Ruby
 
 
+[https://github-readme-stats.vercel.app/api?username=jbs0708&hide\_title=true&show\_icons=true&include\_all\_commits=true&disable\_animations=true&theme=vue](https://github-readme-stats.vercel.app/api?username=jbs0708&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue)
+
+
 <!--
 **jbs0708/jbs0708** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
