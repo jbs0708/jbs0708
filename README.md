@@ -7,7 +7,7 @@
 <img src="https://img.shields.io/badge/Java-FF7800?style=for-the-badge&logo=java&logoColor=white">
 
 
-[Github](https://velog.velcdn.com/images/www_1216/post/9a190c41-3655-4feb-ba6c-da532ae88a98/ba9a7cbd.png)
+![Github](https://velog.velcdn.com/images/www_1216/post/9a190c41-3655-4feb-ba6c-da532ae88a98/ba9a7cbd.png)
 
 
 ![Beomsu's GitHub stats](https://github-readme-stats.vercel.app/api?username=jbs0708&show_icons=true&theme=dracula)
