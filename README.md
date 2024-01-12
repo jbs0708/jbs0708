@@ -7,7 +7,7 @@
 
 
 
-![Beomsu's GitHub stats](https://github-readme-stats.vercel.app/api?username=jbs0708&show_icons=true&theme=tokyonight)
+![Beomsu's GitHub stats](https://github-readme-stats.vercel.app/api?username=jbs0708&show_icons=true&theme=cobalt)
 
 
 <!--
