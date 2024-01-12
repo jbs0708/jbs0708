@@ -8,12 +8,12 @@
 
 ![github](https://github.com/jbs0708/jbs0708/assets/87466056/8893eb0d-53cc-4236-a63e-713061bb591d)
 
-
 ![Beomsu's GitHub stats](https://github-readme-stats.vercel.app/api?username=jbs0708&show_icons=true&theme=dracula)
-
 
 <!--
 **jbs0708/jbs0708** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+정범수가 부릅니다 - 끝사
 
 Here are some ideas to get you started:
 
