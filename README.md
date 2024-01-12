@@ -8,6 +8,7 @@
 
 
 ![Github](https://velog.velcdn.com/images/www_1216/post/9a190c41-3655-4feb-ba6c-da532ae88a98/ba9a7cbd.png)
+![github](https://github.com/jbs0708/jbs0708/assets/87466056/8893eb0d-53cc-4236-a63e-713061bb591d)
 
 
 ![Beomsu's GitHub stats](https://github-readme-stats.vercel.app/api?username=jbs0708&show_icons=true&theme=dracula)
