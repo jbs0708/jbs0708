@@ -1,6 +1,9 @@
 ### Hi there 👋
 
 ![GIT](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=ffffff)
+![Python]<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
+- Ruby
+
 
 <!--
 **jbs0708/jbs0708** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
