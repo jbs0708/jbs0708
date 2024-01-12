@@ -5,7 +5,7 @@
 - Ruby
 
 
-[https://github-readme-stats.vercel.app/api?username=jbs0708&hide\_title=true&show\_icons=true&include\_all\_commits=true&disable\_animations=true&theme=vue](https://github-readme-stats.vercel.app/api?username=jbs0708&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue)
+[https://github.com/anuraghazra/github-readme-stats](https://github-readme-stats.vercel.app/api?username=jbs0708&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue)
 
 
 <!--
