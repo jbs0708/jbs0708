@@ -5,7 +5,7 @@
 - Ruby
 
 
-![status][https://github.com/anuraghazra/github-readme-stats](https://github-readme-stats.vercel.app/api?username=jbs0708&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue)
+[![BEOMSU's GitHub stats](https://github-readme-stats.vercel.app/api?username=jbs0708)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
