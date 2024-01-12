@@ -6,8 +6,6 @@
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 <img src="https://img.shields.io/badge/Java-FF7800?style=for-the-badge&logo=java&logoColor=white">
 
-
-![Github](https://velog.velcdn.com/images/www_1216/post/9a190c41-3655-4feb-ba6c-da532ae88a98/ba9a7cbd.png)
 ![github](https://github.com/jbs0708/jbs0708/assets/87466056/8893eb0d-53cc-4236-a63e-713061bb591d)
 
 
