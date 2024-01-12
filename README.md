@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-!git [GIT](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=ffffff)
+![GIT](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=ffffff)
 
 <!--
 **jbs0708/jbs0708** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
